@@ -1,0 +1,14 @@
+"#widget":{
+	height:Ti.UI.FILL,
+	width:Ti.UI.FILL,
+	layout: 'vertical'
+},
+"#tabs":{
+	height:Ti.UI.SIZE,
+	width:Ti.UI.FILL,
+	layout:'horizontal'
+},
+"#scrollable":{
+	height:Ti.UI.SIZE,
+	width:Ti.UI.FILL
+}

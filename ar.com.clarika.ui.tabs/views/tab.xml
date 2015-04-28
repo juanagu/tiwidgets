@@ -1,0 +1,6 @@
+<Alloy>
+	<View>
+		<Label id="title"/>
+		<View id="indicator"/>
+	</View>
+</Alloy>
