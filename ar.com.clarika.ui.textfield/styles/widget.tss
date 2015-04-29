@@ -1,0 +1,24 @@
+"#widget":{
+	height:Ti.UI.SIZE,
+	width:Ti.UI.FILL
+},
+"#hintText":{
+	height:Ti.UI.SIZE,
+	width:Ti.UI.FILL,
+	color: '#e4e4e4',
+	font:{
+		fontFamily: 'Roboto Regular',
+		fontSize: '16dp'
+	},
+	textAlign:Titanium.UI.TEXT_ALIGNMENT_LEFT
+},
+"#textField":{
+	height:Ti.UI.SIZE,
+	width:Ti.UI.FILL,
+	color: '#787677',
+	font:{
+		fontFamily: 'Roboto Regular',
+		fontSize: '16dp'
+	},
+	textAlign:Titanium.UI.TEXT_ALIGNMENT_LEFT
+}

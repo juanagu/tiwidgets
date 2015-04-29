@@ -1,0 +1,6 @@
+<Alloy>
+	<View>
+		<Label id="hintText"/>
+		<TextField id="textField"/>
+	</View>
+</Alloy>
