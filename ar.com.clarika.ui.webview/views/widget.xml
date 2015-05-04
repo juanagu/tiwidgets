@@ -1,0 +1,6 @@
+<Alloy>
+	<View>
+		<WebView id="webview" />
+		<ActivityIndicator id="loader"/>
+	</View>
+</Alloy>
