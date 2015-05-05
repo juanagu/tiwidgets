@@ -1,4 +1,4 @@
-//
+﻿//
 //  widget.js
 //  Tabs
 //
@@ -14,7 +14,8 @@ var args = arguments[0] || {};
 var currentTab = 0;
 var DEBUG = (Alloy.CFG.DEBUG);
 var mTabs,
-    mPages;
+    mPages,
+    indicatorColor;
 var loadingPages = [];
 var views = [];
 
