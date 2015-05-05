@@ -1,0 +1,13 @@
+{
+	"id": "ar.com.clarika.ui.textfield",
+	"name": "ar.com.clarika.ui.textfield",
+	"description" : "",
+	"author": "Juan Ignacio Agu",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2015 Clarika",
+	"license":"Apache 2.0",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"",
+	"platforms":"android,ios"
+}

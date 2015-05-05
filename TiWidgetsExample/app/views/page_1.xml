@@ -1,0 +1,5 @@
+<Alloy>
+	<Window title="Page 1" class="fill">
+		<Widget id="webview" src="ar.com.clarika.ui.webview"/>
+	</Window>
+</Alloy>

@@ -1,0 +1,15 @@
+{
+	"global": {},
+	"env:development": {},
+	"env:test": {},
+	"env:production": {},
+	"os:android": {},
+	"os:ios": {},
+	"os:mobileweb": {},
+	"os:windows": {},
+	"dependencies": {
+		"ar.com.clarika.ui.tabs": "1.0",
+		"ar.com.clarika.ui.webview": "1.0",
+		"ar.com.clarika.ui.textfield": "1.0"
+	}
+}

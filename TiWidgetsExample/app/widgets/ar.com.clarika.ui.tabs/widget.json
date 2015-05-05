@@ -1,0 +1,13 @@
+{
+	"id": "ar.com.clarika.ui.tabs",
+	"name": "ar.com.clarika.ui.tabs",
+	"description": "",
+	"author": "Juan Ignacio Agu",
+	"version": "1.0",
+	"copyright": "Copyright (c) 2015 Clarika",
+	"license": "Apache 2.0",
+	"min-alloy-version": "1.0",
+	"min-titanium-version": "2.1",
+	"tags": "Titanium Tabs, Titanium Tabs Android, Titanium Tabs Android iPhone, Titanium Tabs iPhone",
+	"platforms": "android,ios"
+}

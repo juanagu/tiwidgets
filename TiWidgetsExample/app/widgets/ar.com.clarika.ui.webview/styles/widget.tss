@@ -1,0 +1,17 @@
+"#widget":{
+	backgroundColor: 'white'
+},
+"#loader[platform=android]":{
+	style:Titanium.UI.ActivityIndicatorStyle.BIG_DARK
+},
+"#loader[platform=ios]":{
+	style:Titanium.UI.iPhone.ActivityIndicatorStyle.DARK
+},
+"#webview":{
+	height:Ti.UI.FILL,
+	widht:Ti.UI.FILL,
+	visible: false
+},
+"#webview[platform=android]":{
+	enableZoomControls: false
+}

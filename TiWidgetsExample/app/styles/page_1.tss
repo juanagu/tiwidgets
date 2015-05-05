@@ -1,0 +1,5 @@
+"#webview":{
+	webview:{
+		url: 'http://www.appcelerator.com/'
+	}
+}
